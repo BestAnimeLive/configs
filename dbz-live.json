@@ -1,0 +1,114 @@
+{
+  "ads_config": {
+    "ad_waterfall": [
+      "admob",
+      "unity"
+    ],
+    "ad_time": 40,
+    "ad_spacing": 2,
+    "show_banner": true,
+    "ad_model": [
+      {
+        "name": "admob",
+        "app_id": "ca-app-pub-9478049238476341~",
+        "banner_id": "ca-app-pub-9478049238476341/",
+        "popup_id": "ca-app-pub-9478049238476341/",
+        "reward_id": "ca-app-pub-9478049238476341/",
+        "popup_time": 30
+      },
+      {
+        "name": "unity",
+        "app_id": "491005",
+        "banner_id": "banner",
+        "popup_id": "Android_Interstitial",
+        "reward_id": "Android_Rewarded",
+        "popup_time": 0
+      }
+    ]
+  },
+  "update_config": {
+    "enable": true,
+    "versionCode": 1,
+    "versionName": "1.0",
+    "title": "Update the new version",
+    "message": "Update the app now to get more beautiful photos"
+  },
+  "redirect_config": {
+    "enable": false,
+    "title": "",
+    "message": "",
+    "url": ""
+  },
+  "community_config": {
+    "fanpage": [
+      {
+        "link": "https://www.facebook.com/otakuinvn",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/1905846616249110",
+        "target": "def",
+        "enable": true
+      }
+    ],
+    "youtube": [
+      {
+        "link": "https://www.youtube.com/channel/UCm4YjqB1omGefSSIHtll--Q/",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "https://www.youtube.com/channel/UCm4YjqB1omGefSSIHtll--Q/",
+        "target": "def",
+        "enable": true
+      }
+    ],
+    "tiktok": [
+      {
+        "link": "https://www.tiktok.com/@soochin221120",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "",
+        "target": "def",
+        "enable": false
+      }
+    ],
+    "shopping": [
+      {
+        "link": "https://animesugoistore.com/",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "https://animesugoistore.com/",
+        "target": "def",
+        "enable": true
+      }
+    ]
+  },
+  "moreapp_config": {
+    "moreapp": [
+      {
+        "title": "Anime Live Wallpaper 4K",
+        "text": "",
+        "iconUrl": "https://play-lh.googleusercontent.com/Rhhs8iWQ0sVHETj5QV7ew_lcRuFoCSMX4Xqy6A_LSDrUD_8aZgXfyPnL-xkruTdnpr8O=s512-rw",
+        "mainImageUrl": "https://play-lh.googleusercontent.com/9TTk5AFZRlXM09g6ThktEFM544E36dmCvlTf0ghd6uxZbIICiRG19X87eeeGJqu7_RQ=w1024-h500-rw",
+        "actionUrl": "com.minmin.anime.live",
+        "stars": 5,
+        "numberOfUser": 100000
+      }
+    ]
+  },
+  "pin_ads_config": {
+    "pins": [
+      {
+        "link": "https://play.google.com/store/apps/details?id=com.minmin.anime.live",
+        "thumb": "https://media.giphy.com/media/MeYAMYTeDG72UI6Gc0/giphy.gif",
+        "created": "20220830"
+      }
+    ]
+  }
+}
