@@ -34,7 +34,7 @@
     "message": "Update the app now to get more beautiful photos"
   },
   "redirect_config": {
-    "enable": true,
+    "enable": false,
     "title": "Test",
     "message": "Test redirect",
     "url": "https://google.com"
