@@ -34,10 +34,10 @@
     "message": "Update the app now to get more beautiful photos"
   },
   "redirect_config": {
-    "enable": false,
-    "title": "",
-    "message": "",
-    "url": ""
+    "enable": true,
+    "title": "Test",
+    "message": "Test redirect",
+    "url": "https://google.com"
   },
   "community_config": {
     "fanpage": [
