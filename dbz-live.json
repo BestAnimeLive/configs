@@ -10,18 +10,18 @@
     "ad_model": [
       {
         "name": "admob",
-        "app_id": "ca-app-pub-9478049238476341~",
-        "banner_id": "ca-app-pub-9478049238476341/",
-        "popup_id": "ca-app-pub-9478049238476341/",
-        "reward_id": "ca-app-pub-9478049238476341/",
-        "popup_time": 30
+        "app_id": "ca-app-pub-5653028009752013~9477511838",
+        "banner_id": "ca-app-pub-5653028009752013/5538266820",
+        "popup_id": "ca-app-pub-5653028009752013/1599021818",
+        "reward_id": "ca-app-pub-3940256099942544/5224354917",
+        "popup_time": 40
       },
       {
         "name": "unity",
-        "app_id": "491005",
+        "app_id": "4933567",
         "banner_id": "banner",
-        "popup_id": "Android_Interstitial",
-        "reward_id": "Android_Rewarded",
+        "popup_id": "Interstitial_Android",
+        "reward_id": "Rewarded_Android",
         "popup_time": 0
       }
     ]
